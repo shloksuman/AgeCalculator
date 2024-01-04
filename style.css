@@ -68,7 +68,7 @@
     width: auto;
     height: auto;
     position: absolute;
-    background-position: calc(100%- 10px);
+    background-position: calc(100% - 10px);
     background-size: 30px;
     cursor: pointer;
 }
