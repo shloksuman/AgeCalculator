@@ -39,13 +39,21 @@
 }
 
 .input-box input {
+    /* Expand input to fill available space */
     flex: 1;
+    /* Add space to the right of the input */
     margin-right: 20px;
+    /* Add padding to input */
     padding: 14px 20px;
+    /* Remove default input border */
     border: 0;
+    /* Remove default input outline */
     outline: 0;
+    /* Set input font size */
     font-size: 18px;
+    /* Add border radius to input */
     border-radius: 5px;
+    /* Position input relatively */
     position: relative;
 }
 
